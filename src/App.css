@@ -1,22 +1,19 @@
 .App {
-  text-align: center;
+  background-image: url("https://img2.goodfon.com/wallpaper/nbig/d/5a/sunset-sunset-over-earth.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 50vw;
+  font-family: 'Inconsolata', monospace;
 }
 
-.App-logo {
-  height: 40vmin;
+a {
+  text-decoration: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+a:visited {
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
-}

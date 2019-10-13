@@ -1,0 +1,27 @@
+.about-container {
+  display:flex;
+  flex-direction: column;
+  color: white;
+  margin-left:5%;
+  margin-right: 30%;
+  padding-top: 1%;
+  background-color: transparent;
+  text-shadow: 3px 3px 15px rgb(0, 217, 255);
+  font-size: 12px;
+}
+
+.about-title {
+  font-size: 30px;
+}
+
+.section-title {
+  font-size: 20px;
+}
+
+.section-item {
+  padding-left: .5vw;
+}
+
+a:link {
+  color: white;
+}
