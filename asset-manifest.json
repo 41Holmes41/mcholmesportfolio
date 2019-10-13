@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/holmesportfolio/static/css/main.d9530897.chunk.css",
+    "main.js": "/holmesportfolio/static/js/main.32c6a70c.chunk.js",
+    "main.js.map": "/holmesportfolio/static/js/main.32c6a70c.chunk.js.map",
+    "runtime-main.js": "/holmesportfolio/static/js/runtime-main.778941f3.js",
+    "runtime-main.js.map": "/holmesportfolio/static/js/runtime-main.778941f3.js.map",
+    "static/js/2.3735d750.chunk.js": "/holmesportfolio/static/js/2.3735d750.chunk.js",
+    "static/js/2.3735d750.chunk.js.map": "/holmesportfolio/static/js/2.3735d750.chunk.js.map",
+    "index.html": "/holmesportfolio/index.html",
+    "precache-manifest.c95394629bd0d98cc4ec38f1fd6ae74b.js": "/holmesportfolio/precache-manifest.c95394629bd0d98cc4ec38f1fd6ae74b.js",
+    "service-worker.js": "/holmesportfolio/service-worker.js",
+    "static/css/main.d9530897.chunk.css.map": "/holmesportfolio/static/css/main.d9530897.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.778941f3.js",
+    "static/js/2.3735d750.chunk.js",
+    "static/css/main.d9530897.chunk.css",
+    "static/js/main.32c6a70c.chunk.js"
+  ]
+}
