@@ -4,9 +4,9 @@
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
-  width: 100vw;
-  height: 50vw;
+  min-height: 100vh;
   font-family: 'Inconsolata', monospace;
+  text-align: justify;
 }
 
 a {

@@ -7,21 +7,266 @@
   padding-top: 1%;
   background-color: transparent;
   text-shadow: 3px 3px 15px rgb(0, 217, 255);
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .about-title {
   font-size: 30px;
+  margin-top:1vw;
+  margin-left: 0;
 }
 
 .section-title {
   font-size: 20px;
+  margin-top: 1vw;
+  margin-left: 0;
 }
 
 .section-item {
-  padding-left: .5vw;
+  margin-top: 1vw;
+  margin-left: 0;
 }
 
 a:link {
   color: white;
+}
+
+.profile-pic {
+  position: absolute;
+  height: 24vw;
+  width: 16vw;
+  left: 75vw;
+  top: 10vw;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.volcano-pic {
+  position: absolute;
+  height: 18vw;
+  width: 16vw;
+  left: 75vw;
+  top: 40vw;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.pirate-title {
+  height: 36vw;
+  width: 60vw;
+  margin: 3vw;
+  
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.pirate-getcombo {
+  height: 25vw;
+  width: 45vw;
+  margin: 1vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.pirate-getcombo2 {
+  height: 14vw;
+  width: 60vw;
+  margin: 1vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.pirate-result1 {
+  height: 15vw;
+  width: 45vw;
+  margin: 3vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.pirate-result2 {
+  height: 50vw;
+  width: 45vw;
+  margin: 3vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.flex {
+  display: flex;
+}
+
+.mongo-title {
+  height: 50vw;
+  width: 50vw;
+  margin: 3vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.schema1 {
+  height: 40vw;
+  width: 20vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.schema2 {
+  height: 25vw;
+  width: 15vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.schema3 {
+  height: 42vw;
+  width: 20vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.schema4 {
+  height: 35vw;
+  width: 25vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.mongo-showdashboard {
+  height: 40vw;
+  width: 50vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.django-title {
+  height: 47vw;
+  width: 80vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.django-signup {
+  height: 22vw;
+  width: 35vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.django-paths{
+
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.django-simulate{
+  width: 70vw;
+  height: 70vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.psql-model1{
+  width: 50vw;
+  height: 30vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.psql-model2{
+  width: 30vw;
+  height: 30vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.psql-model3{
+  width: 35vw;
+  height: 25vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.psql-model4{
+  width: 45vw;
+  height: 18vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.psql-views{
+  width: 45vw;
+  height: 40vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.express-passport {
+  width: 45vw;
+  height: 65vw;
+  margin: 1.5vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+.express-controllers {
+  height: 50vw;
+  width: 70vw;
+  margin: 3vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.react-tm {
+  height: 40vw;
+  width: 40vw;
+  margin: 1vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.react-ag {
+  height: 30vw;
+  width: 45vw;
+  margin: 1vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+.react-routes {
+  height: 30vw;
+  width: 80vw;
+  margin: 1vw;
+  margin-left: 0;
+  box-shadow: 3px 3px 15px rgb(0, 217, 255);
+  border-radius: 1vw;
+}
+
+#colored-link {
+  color: rgb(198, 253, 255);
+  text-shadow: 3px 3px 15px rgb(128, 255, 249);
+}
+
+.home-link {
+  font-size: 20px;
 }
